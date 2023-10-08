@@ -1,5 +1,5 @@
-<!--# index.html
-Internal Style sheets -->
+# index.html
+Internal Style sheets
 <!DOCTYPE html>
 <html>
     <head>
