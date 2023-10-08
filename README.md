@@ -4,9 +4,9 @@ Internal Style sheets
 <html>
     <head>
         <title>My Personal Introduction</title>
-        <style = "text/css"media = "all">
+        <style>
             body {
-                Background-color: green;
+                background-color: green;
             }
             h1 {
                 color: purple;
