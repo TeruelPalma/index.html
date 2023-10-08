@@ -4,15 +4,15 @@ Internal Style sheets
 <html>
     <head>
         <title>My Personal Introduction</title>
-        <style>
+        <style = "text/css"media = "all">
             body {
-                Background-color: 7B3F6E;
+                Background-color: green;
             }
             h1 {
-                color: F6D290;
+                color: purple;
             }
             p {
-                color: 7B3F6E;
+                color: purple;
             }
         </style>
     </head>
